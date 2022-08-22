@@ -1,0 +1,9 @@
+
+2022.07.11 hst1pass made a one-line bug-fix that prevented the finding of saturated stars
+2022.07.05 hst1pass gets released today!
+
+
+
+
+
+
