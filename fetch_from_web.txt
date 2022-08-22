@@ -1,2 +1,2 @@
-wget -e robots=off --no-parent -R "index.html*" -l 0 -r https://www.stsci.edu/~jayander/HST1PASS/
+wget -e robots=off --no-parent --no-host-directories -R "index.html*" -l 0 -r https://www.stsci.edu/~jayander/HST1PASS/
 
