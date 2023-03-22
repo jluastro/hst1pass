@@ -1,0 +1,4 @@
+Median Errors for 255 of 1776 Stars Between [-13.5, -10.0]
+     Photometric Error: 0.01 mag
+   X Astrometric Error: 0.007 pix
+   Y Astrometric Error: 0.007 pix

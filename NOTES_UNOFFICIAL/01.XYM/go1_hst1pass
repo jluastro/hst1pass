@@ -1,0 +1,1 @@
+/g/lu/code/fortran/hst1pass/CODE/hst1pass/hst1pass HMIN=5 FMIN=25 PSF=/g/lu/code/fortran/hst1pass/LIB/PSFs/STDPSFs/WFC3UV/STDPSF_WFC3UV_F814W.fits GDC=/g/lu/code/fortran/hst1pass/LIB/GDCs/STDGDCs/WFC3UV/STDGDC_WFC3UV_F814W.fits PMAX=99999 CMIN=-1.0 CMAX=0.1 QMAX=0.5 PERT=0 OUT=uvwXYMpq ../00.DATA/*_flt.fits

@@ -1,0 +1,7 @@
+cp ../01.XYM/IN.xym2bar.final IN.xym2bar
+
+# Then delete first row.
+echo "$(tail -n +2 IN.xym2bar)" > IN.xym2bar
+
+# The 3 means at least 3 detections out of the 4 images.
+xym2bar 3
