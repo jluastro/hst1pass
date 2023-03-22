@@ -24,10 +24,12 @@ Specific commands to run the example
 ------------------------------------
 Run the commands in this order and in the directories.
 It assumes you have the 4 flt images in 00.DATA and the fake starlist FAKE.UVW in 02.ARTSTAR.
+
 In 01.XYM:
-   1. bash go1_hst1pass
-   2. python go2_xym2matbar.py
+   - bash go1_hst1pass
+   - python go2_xym2matbar.py
+     
 In 02.ARTSTAR:
-   1. bash go1_copy_mat
-   2. bash go2_hst1pass
-   3. bash go3_bar
+   - bash go1_copy_mat
+   - bash go2_hst1pass
+   - bash go3_bar
