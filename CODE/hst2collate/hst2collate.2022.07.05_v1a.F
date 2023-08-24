@@ -265,7 +265,7 @@ c--------------------------------------------------
           print*,'   [LST=starlist.UVW]         \  (no finding; just  '
           print*,'                                  collate ref stars)'
           print*,'                                                 '
-          print*,'It cross matches the REFs UV frame               '
+          print*,'It cross matches the REFs UV frame              '
           print*,'to the UV frame of the individual                '
           print*,'_flt exposures and collates the stars in         '
           print*,'the _flt images into a catalog, reporting        '

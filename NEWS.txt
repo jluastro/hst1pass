@@ -1,9 +1,17 @@
 
-2022.07.11 hst1pass made a one-line bug-fix that prevented the finding of saturated stars
-2022.07.05 hst1pass gets released today!
+2023.07.27_v1d -- implemnted subarrays for WFC3/IR
 
+2023.06.29_v1c -- output of f,F, and P were not working; fixed!  
 
+2023.04.18_v1b -- first major update the the code
+                  * amazing that no significant updates have been needed in almost
+                    a year!
+                  * enable flexibility in the aperture used for fitting with
+                    with PIXFIT=2x2, 3x3, 4x4, or 5x5
+                  * implemented a few UVIS subarrays for "shell" outputing of
+                    auxiliary images (masks, art stars, subtractions)
 
+2022.07.11_v1a -- hst1pass made a one-line bug-fix that prevented the finding of saturated stars
 
-
+2022.07.05     -- hst1pass gets released today!
 
